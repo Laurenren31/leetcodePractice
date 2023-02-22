@@ -13,4 +13,4 @@ const runningSum = (nums) => {
   return output;
 };
 
-runningSum();
+
