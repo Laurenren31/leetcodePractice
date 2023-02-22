@@ -10,7 +10,7 @@ const runningSum = (nums) => {
     n += nums[i];
     output.push(n);
   }
-  return output;
+  return output; 
 };
 
 runningSum();
